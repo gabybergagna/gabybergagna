@@ -2,14 +2,17 @@
 
 #### Soy Gaby, una Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
 
-## 🚀 Habilidades Técnicas
+## 🚀 Habilidades Técnicas                                                                                                      |
 
+| **Habilidad**          | **Descripción**                                                                                                                | **Enlaces**                                                                                                          |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | **Modelado Predictivo**| Utilizo técnicas avanzadas para predecir resultados basados en datos históricos.                                                |                                                                                                                     |
-| **Programación**       | Experiencia en Python con librerías esenciales:                                                                                 | [Numpy](https://numpy.org), [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org), [Scikit-Learn](https://scikit-learn.org)                                                                                                                     |
-| **Bases de Datos**     | Manejo de SQL y NoSQL con:                                                                                                      | [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com)                                                                                                                     |
-| **Visualización**      | Creación de visualizaciones impactantes usando:                                                                                                                |
-
+| **Programación**       | Experiencia en Python con librerías esenciales:                                                                                 |                                                                                                                     |
+|                        | <ul><li>🔹 [Numpy](https://numpy.org)</li><li>🔹 [Pandas](https://pandas.pydata.org)</li><li>🔹 [Matplotlib](https://matplotlib.org)</li><li>🔹 [Seaborn](https://seaborn.pydata.org)</li><li>🔹 [Scikit-Learn](https://scikit-learn.org)</li></ul> |                                                                                                                     |
+| **Bases de Datos**     | Manejo de SQL y NoSQL con:                                                                                                      |                                                                                                                     |
+|                        | <ul><li>🔹 [MySQL](https://www.mysql.com)</li><li>🔹 [PostgreSQL](https://www.postgresql.org)</li><li>🔹 [MongoDB](https://www.mongodb.com)</li></ul> |                                                                                                                     |
+| **Visualización**      | Creación de visualizaciones impactantes usando:                                                                                 |                                                                                                                     |
+|                        | <ul><li>🔹 [Tableau](https://www.tableau.com)</li><li>🔹 [Power BI](https://powerbi.microsoft.com)</li></ul>                    |                                                                                                                     |
 ---
 
 ### 📈 Proyectos Destacados
