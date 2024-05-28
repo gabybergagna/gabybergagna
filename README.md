@@ -1,4 +1,4 @@
-## 🌟 Hola!
+👋 ¡Hola!
 
 Soy Gaby, una Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
 
@@ -22,9 +22,8 @@ Soy Gaby, una Analista de Datos apasionada por la Ciencia de Datos y el aprendiz
 ---
 
 ### 🌐 Encuéntrame en:
-- [LinkedIn](https://www.linkedin.com/in/gabriela-bergagna/) (Enlace a tu perfil de LinkedIn)
-- [GitHub](https://github.com/gabybergagna) (Enlace a tu perfil de GitHub)
-
+- [LinkedIn](https://www.linkedin.com/in/gabriela-bergagna/) 
+- [GitHub](https://github.com/gabybergagna) 
 ---
 
 ¡Gracias por visitar mi perfil! 😊
