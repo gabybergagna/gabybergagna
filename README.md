@@ -1,23 +1,48 @@
 ## Hola! 👋
 
 
-🚀Soy Gaby, apasionada por la ciencia de datos y el aprendizaje automático | Ingeniera de MLOps en Steam | Explorando el mundo de las recomendaciones y la optimización de sistemas | Amante de la visualización de datos y el cine 📊🎬 | En constante aprendizaje y construyendo soluciones impactantes desde la idea hasta la implementación 
+🚀Soy Gaby, apasionada por la ciencia de datos y el aprendizaje automático | Ingeniera de MLOps en Steam | Explorando el mundo de las recomendaciones y la optimización de sistemas | Amante de la visualización de datos | En constante aprendizaje y construyendo soluciones desde la idea hasta la implementación 
 
 <h2>Habilidades Técnicas</h2>
 <div>
-  <a href="#" class="btn btn-primary">Python (Numpy, Pandas, Scikit-learn)</a>
-  <a href="#" class="btn btn-primary">R</a>
-  <a href="#" class="btn btn-primary">Matplotlib</a>
-  <a href="#" class="btn btn-primary">Seaborn</a>
-  <a href="#" class="btn btn-primary">Tableau</a>
-  <a href="#" class="btn btn-primary">SQL (MySQL, PostgreSQL)</a>
-  <a href="#" class="btn btn-primary">NoSQL (MongoDB)</a>
-  <a href="#" class="btn btn-primary">Hadoop</a>
-  <a href="#" class="btn btn-primary">Spark</a>
-  <a href="#" class="btn btn-primary">Git</a>
-  <a href="#" class="btn btn-primary">Jupyter Notebooks</a>
-  <a href="#" class="btn btn-primary">Google Colab</a>
+  <button class="btn btn-primary">
+    <img src="python_logo.png" alt="Python" class="icon"> Python (Numpy, Pandas, Scikit-learn)
+  </button>
+  <button class="btn btn-primary">
+    <img src="r_logo.png" alt="R" class="icon"> R
+  </button>
+  <button class="btn btn-primary">
+    <img src="matplotlib_logo.png" alt="Matplotlib" class="icon"> Matplotlib
+  </button>
+  <button class="btn btn-primary">
+    <img src="seaborn_logo.png" alt="Seaborn" class="icon"> Seaborn
+  </button>
+  <button class="btn btn-primary">
+    <img src="tableau_logo.png" alt="Tableau" class="icon"> Tableau
+  </button>
+  <button class="btn btn-primary">
+    <img src="sql_logo.png" alt="SQL" class="icon"> SQL (MySQL, PostgreSQL)
+  </button>
+  <button class="btn btn-primary">
+    <img src="mongodb_logo.png" alt="NoSQL" class="icon"> NoSQL (MongoDB)
+  </button>
+  <button class="btn btn-primary">
+    <img src="hadoop_logo.png" alt="Hadoop" class="icon"> Hadoop
+  </button>
+  <button class="btn btn-primary">
+    <img src="spark_logo.png" alt="Spark" class="icon"> Spark
+  </button>
+  <button class="btn btn-primary">
+    <img src="git_logo.png" alt="Git" class="icon"> Git
+  </button>
+  <button class="btn btn-primary">
+    <img src="jupyter_logo.png" alt="Jupyter Notebooks" class="icon"> Jupyter Notebooks
+  </button>
+  <button class="btn btn-primary">
+    <img src="colab_logo.png" alt="Google Colab" class="icon"> Google Colab
+  </button>
 </div>
+
 
 <h2>Proyectos Destacados</h2>
   <ul>
@@ -27,11 +52,7 @@
     <li><strong> MLOps Steam:</strong> sistema de recomendación desde cero, enfrentando desafíos y desplegando un MVP con recursos limitados.</li>
   </ul>
   
-  <h2>Contribuciones a la Comunidad</h2>
-  <ul>
-    <li>Participación en competiciones de análisis de datos como Kaggle.</li>
-    <li>Colaboración en proyectos de código abierto relacionados con análisis de datos y machine learning.</li>
-  </ul>
+ 
   
   <h2>Intereses</h2>
   <p>Me interesa explorar nuevas técnicas de machine learning, especialmente en el campo de deep learning y procesamiento de grandes datos. Disfruto trabajando en equipos multidisciplinarios para resolver problemas complejos y desarrollar soluciones innovadoras.</p>
