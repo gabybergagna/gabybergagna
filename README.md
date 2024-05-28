@@ -1,12 +1,12 @@
 ## 👋 ¡Hola!
 
-Soy Gaby, una Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
+# Soy Gaby, una Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
 
 ## 🚀 Habilidades Técnicas
 
 | | | |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Modelado Predictivo**| Utilizo técnicas avanzadas para predecir resultados basados en datos históricos.                                                | [Ejemplo de Proyecto](#)                                                                                                                     |
+
+| **Modelado Predictivo**| Utilizo técnicas avanzadas para predecir resultados basados en datos históricos.                                                |                                                                                                                    |
 | **Programación**       | Experiencia en Python con librerías esenciales:                                                                                 | [Numpy](https://numpy.org), [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org), [Seaborn](https://seaborn.pydata.org), [Scikit-Learn](https://scikit-learn.org)                                                                                                                     |
 | **Bases de Datos**     | Manejo de SQL y NoSQL con:                                                                                                      | [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com)                                                                                                                     |
 | **Visualización**      | Creación de visualizaciones impactantes usando:                                                                                 | [Tableau](https://www.tableau.com), [Power BI](https://powerbi.microsoft.com)                                                                                                                     |
