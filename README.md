@@ -1,7 +1,7 @@
 ## Hola! 👋
 
 
-🚀 Apasionada por la ciencia de datos y el aprendizaje automático | Ingeniera de MLOps en Steam | Explorando el mundo de las recomendaciones y la optimización de sistemas | Amante de la visualización de datos y el cine 📊🎬 | En constante aprendizaje y construyendo soluciones impactantes desde la idea hasta la implementación 
+🚀Soy Gaby, apasionada por la ciencia de datos y el aprendizaje automático | Ingeniera de MLOps en Steam | Explorando el mundo de las recomendaciones y la optimización de sistemas | Amante de la visualización de datos y el cine 📊🎬 | En constante aprendizaje y construyendo soluciones impactantes desde la idea hasta la implementación 
 
 <h2>Habilidades Técnicas</h2>
 <div>
