@@ -1,6 +1,6 @@
 ## 👋 ¡Hola!
 
-#### Soy Gaby, una Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
+#### Soy Gaby, Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
 
 ## 🚀 Habilidades Técnicas                                                                                                      |
 
