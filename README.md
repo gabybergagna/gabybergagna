@@ -15,9 +15,17 @@
 
 ### 📈 Proyectos Destacados
 
-- **Análisis de Siniestros Viales:** Creación de dashboards interactivos para visualizar datos complejos y facilitar la toma de decisiones estratégicas en tiempo real (Python, NLP).
-- **Proyecto de Análisis y Consultoría de Restaurantes:** Implementación de modelos de machine learning para predecir dónde y en qué rubros es recomendable invertir dentro de la industria gastronómica (Python, Scikit-learn).
-- **MLOps Steam:** Construcción de un sistema de recomendación desde cero, enfrentando desafíos y desplegando un MVP con recursos limitados.
+**🔍 Análisis de Siniestros Viales**  
+Desarrollo de dashboards interactivos para la visualización de datos complejos y toma de decisiones estratégicas en tiempo real.  
+**Herramientas:** `Python` 🐍 | `NLP` 🗣️
+
+**🍽️ Proyecto de Análisis y Consultoría de Restaurantes**  
+Implementación de modelos de machine learning para identificar oportunidades óptimas de inversión en la industria gastronómica, analizando más de **4 millones de registros**. Incluye pipelines de datos y almacenamiento en la nube.  
+**Herramientas:** `Python` 🐍 | `Scikit-learn` 📈 | `Google Cloud Storage` ☁️ | `Google Cloud Platform` ☁️ | `Power BI` 📊
+
+**🚀 MLOps Steam**  
+Desarrollo y despliegue de un sistema de recomendación desde cero, superando desafíos técnicos para entregar un MVP con recursos limitados.  
+**Herramientas:** `Python` 🐍 | `Matplotlib` 📉 | `Pandas` 🧹 | `Seaborn` 🌈
 
 ---
 
