@@ -1,6 +1,6 @@
 ## 👋 ¡Hola!
 
-#### Soy Gaby, Analista de Datos apasionada por la Ciencia de Datos y el aprendizaje continuo. Actualmente, colaboro como Asistente de Enseñanza en Henry, donde guío a estudiantes y desarrollo contenido educativo en análisis y manejo de datos.
+#### Soy Gaby, Analista de datos con amplia experiencia en ciencia de datos y visualización. Poseo conocimientos avanzados en Python, SQL, Tableau y Power BI, con habilidades demostradas en modelado predictivo y machine learning. Apasionada y estratégica, me destaco por mi autonomía y orientación a resultados, y poseo excelentes habilidades de comunicación para transmitir conceptos técnicos de manera accesible.
 
 ## 🚀 Habilidades Técnicas                                                                                                      |
 
